@@ -1,5 +1,5 @@
 {
-  "name": "api-docs",
+  "name": "node-api-doc-gen",
   "version": "1.0.0",
   "private": true,
   "scripts": {
