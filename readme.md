@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Node.js Api Documentation Generate
+    Node.js API Documentation Generate
 </h1>
 
 ## Installation
